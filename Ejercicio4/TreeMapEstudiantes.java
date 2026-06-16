@@ -5,7 +5,7 @@ public class TreeMapEstudiantes {
 
     private TreeMap<String, String> estudiantes;
 
-    public MapaEstudiantes() {
+    public TreeMapEstudiantes() {
 
         // El comparador compareTo() normalmente ordena ascendente.
         // Al invertir el orden de comparación (b.compareTo(a)),
